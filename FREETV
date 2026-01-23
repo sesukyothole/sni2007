@@ -26,7 +26,7 @@ https://live.aqfadtv.xyz/ria/index.mpd
 https://get.perfecttv.net/dash2.mpd?channel=astroria&username=vip_level7&password=vip_level7
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_primary.mpd
 
-#EXTINF:-1 tvg-id="104.astro" group-title="Astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroRia_2024.png",104 Astro Ria HD
+#EXTINF:-1 tvg-id="104.astro" group-title="🇲🇾 ASTRO PREMIUM" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroRia_2024.png",104 Astro Ria HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d5249cb40505495494828f42c37087cb:d59f6a7bed00bd5348355ab5b3ee6aa0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
@@ -41,18 +41,18 @@ https://live.aqfadtv.xyz/prima/index.mpd
 https://get.perfecttv.net/dash2.mpd?channel=astroprima&username=vip_level7&password=vip_level7
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_primary.mpd
 
-#EXTINF:-1 tvg-id="105.astro" group-title="Astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPrima_2024.png",105 Astro Prima HD
+#EXTINF:-1 tvg-id="105.astro" group-title="🇲🇾 ASTRO PREMIUM" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPrima_2024.png",105 Astro Prima HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=21759e73f142452aa01acc6d08a86e50:fc9eaf659647c675315f65747c2553da
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
 https://load.perfecttv.net/rwt.mpd?username=vip_vjwcvhsz&password=5Tm80txU&channel=primahd
 
-#EXTINF:-1 group-title="🇲🇾 ASTRO PREMIUM" tvg-id="105.astro" tvg-logo="https://get.perfecttv.net/logo/citra.png" ,Citra
+;#EXTINF:-1 group-title="🇲🇾 ASTRO PREMIUM" tvg-id="105.astro" tvg-logo="https://get.perfecttv.net/logo/citra.png" ,Citra
 https://smart.946985.filegear-sg.me/smart.php?id=AAcitra
 https://smart.946985.filegear-sg.me/smart.php?id=AAcitra1
 https://mimipipi22.github.io/logo/offline.m3u8
 
-#EXTINF:-1 tvg-id="118" group-title="🇲🇾 ASTRO PREMIUM" tvg-logo="https://pictr.com/images/2025/01/13/x1ODCX.png",Astro Warna
+;#EXTINF:-1 tvg-id="118" group-title="🇲🇾 ASTRO PREMIUM" tvg-logo="https://pictr.com/images/2025/01/13/x1ODCX.png",Astro Warna
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
@@ -65,12 +65,6 @@ http://lzoq.serv00.net/daili/Smartv.php?id=Warna-O
 #KODIPROP:inputstream.adaptive.license_key=17d5d62dc61954b82ee016da264abd10:5f35f815699140e2649d825f0d24028e
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_primary.mpd
-
-#EXTINF:-1 tvg-id="" group-title="🇲🇾 ASTRO PREMIUM" ch-number="136" tvg-logo="https://aqfadtv.xyz/logos/OhMyCeria.png",OH MY CERIA!
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_7/dash.mpd
 
 
 
@@ -392,6 +386,12 @@ https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #EXTINF:-1 tvg-id="136.astro" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/e60810abe557482f98be7c853aeb490d/version/1" group-title="TV SOOKA (MY)",Oh My Ceria 
 https://linearfast07.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_7_Ad/dash.mpd
+
+#EXTINF:-1 tvg-id="" group-title="TV SOOKA (MY)" ch-number="136" tvg-logo="https://aqfadtv.xyz/logos/OhMyCeria.png",OH MY CERIA!
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_7/dash.mpd
 
 #EXTINF:-1 tvg-id="" ch-number="" tvg-name="" group-title="TV SOOKA (MY)" tvg-logo="https://i.ibb.co/0cSMG31/Sooka-Drama-Hebat.png",(New) Hebat Drama
 https://linearfast01.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_1_Ad/dash.mpd?aws.sessionId=ece1d67f-ff36-4d41-bf7d-a0586c414147
