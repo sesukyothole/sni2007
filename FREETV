@@ -120,21 +120,30 @@ https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG
 #EXTINF:-1 tvg-id="TV1" tvg-name="TV1" group-title="Freeview MYTV" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv1.png",TV1
 https://mifntechnology.github.io/siaranMy/channels/Tv1/index.m3u8
 
+#EXTINF:-1 tvg-id="TV1" tvg-name="TV1" group-title="Freeview MYTV" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv1.png",TV1
+http://103.209.159.198:8278/TV1/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=12bffbee2d7c9637dbf47e98264a1af4
+
 #EXTINF:-1 tvg-id="TV2" tvg-name="TV2" group-title="Freeview MYTV" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv2.png",TV2
 https://mifntechnology.github.io/siaranMy/channels/Tv2/index.m3u8
 
-#EXTINF:-1 tvg-id="103.astro" group-title="Freeview MYTV" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV3_v1.png",TV3
+#EXTINF:-1 tvg-id="TV2" tvg-name="TV2" group-title="Freeview MYTV" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv2.png",TV2
+http://103.209.159.198:8278/TV2/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=d3baa546861909608a61a5e6207d612c
+
+;#EXTINF:-1 tvg-id="103.astro" group-title="Freeview MYTV" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV3_v1.png",TV3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3bc3f0e518aed92e80a98118e5bc2c10:5fce364fbc4499856597b19a96f44648
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/809/default_primary.mpd
 
-#EXTINF:-1 tvg-group="" tvg-id="TV3" tvg-name="TV3" group-title="Freeview MYTV" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv3.png",TV3 HD
+;#EXTINF:-1 tvg-group="" tvg-id="TV3" tvg-name="TV3" group-title="Freeview MYTV" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv3.png",TV3 HD
 http://103.209.159.198:8278/TV3/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=28323e9b01c4b9940893f37f44d9f086
 
-;#EXTINF:-1 tvg-group="" tvg-id="TV3" tvg-name="TV3" group-title="Freeview MYTV" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv3.png",TV3 (backup)
-https://smart.946985.filegear-sg.me/smart.php?id=TV3
-https://mimipipi22.github.io/logo/offline.m3u8
+;#EXTINF:-1 tvg-group="" tvg-id="TV3" tvg-name="TV3" group-title="Freeview MYTV" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv3.png",TV3 TEST
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3bc3f0e518aed92e80a98118e5bc2c10:5fce364fbc4499856597b19a96f44648
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/809/default_primary.mpd
+http://103.209.159.198:8278/TV3/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=28323e9b01c4b9940893f37f44d9f086
 
 #EXTINF:-1 tvg-group="" tvg-id="OKEY" tvg-name="Okey Tv" group-title="Freeview MYTV" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/OkeyTv.png",Okey TV
 https://mifntechnology.github.io/siaranMy/channels/TvOkey/index.m3u8
@@ -144,16 +153,19 @@ https://mifntechnology.github.io/siaranMy/channels/Tv6/index.m3u8
 
 #EXTINF:-1 tvg-group="" tvg-id="DidikTVKPM" tvg-name="DidikTv KPM" group-title="Freeview MYTV" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/DidikTv.png",DidikTv KPM
 https://mifntechnology.github.io/siaranMy/channels/DidikTvKPM/index.m3u8
+http://103.209.159.198:8278/NTV7/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=fc944fd715487ebee7f19eec4a3e88e1
 
 #EXTINF:-1 tvg-group="" tvg-id="8TV" tvg-name="8TV" group-title="Freeview MYTV" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/8tv.png",8TV
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"a9c619074ed38c20e25ad36c3c57c10c": "056e1e49573d2caee5cb4fe78f8c4f3d"}
 https://unifi-live27.secureswiftcontent.com/UnifiHD/live08.mpd
+http://103.209.159.198:8278/TV8/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=00b4c592927a6544f7a9d511add1d1df
 
 #EXTINF:-1 tvg-group="" tvg-id="TV9" tvg-name="TV9" group-title="Freeview MYTV" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv9.png",TV9
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"1dfa8a645af41e83c520bddf913934ca": "65f6af8750d24b230d91b984237ac1e4"}
 https://unifi-live07.secureswiftcontent.com/UnifiHD/live09.mpd
+http://103.209.159.198:8278/TV9/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=016e330c761512c534ea1b11ae0521d2
 
 #EXTINF:-1 tvg-id="122.unifi" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/2BE028DB-08C8-437F-BB78-93DEC3F03786/0-16x9.png?width=530&updatedTime=0&dt=Web" group-title="Unifi TV",TVS Unifi
 #KODIPROP:inputstreamaddon=inputstream.adaptive
