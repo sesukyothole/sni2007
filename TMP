@@ -3,10 +3,9 @@
 
 https://iili.io/H7B4QYF.png
 
-######################## 3 HOT CHANNEL SOOKA
 
 
-
+---------------------3 HOT CHANNEL SOOKA---------------------
 
 ##404
 #EXTINF:-1 group-logo="https://iili.io/H7B4QYF.png" tvg-id="BOO" tvg-name="BOO" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroBoo_2024.png" group-title=" Premier Access" ch-number="404",404 BOO (( ⏳ Not 24H ))
@@ -76,8 +75,10 @@ https://l04.dp.sooka.my/609/linear/index.mpd
 https://l05.dp.sooka.my/608/linear/index.mpd
 
 
-##################### SPORTS CHANNEL 
 
+
+
+---------------------SPORTS CHANNEL--------------------- 
 
 ##803
 #EXTINF:-1 group-logo="https://iili.io/H7B4QYF.png" tvg-id="803.astro" tvg-name="ARENA BOLA" group-title="Sports" tvg-logo="https://i.ibb.co/DRvRqg9/Astro-Arena-Bola-1-2024.png" ch-number="803",803 Arena Bola HD (( ⏳ Not 24H ))
@@ -401,8 +402,9 @@ https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/i2pcjr4pe5/
 
 
 
-############################# COMMON SPORT
 
+
+---------------------COMMON SPORT---------------------
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"PEUIrzSIRBB/XgJqT9axbg","kid":"GmVRiatcSesjUwjCsannEA"}],"type":"temporary"}
@@ -541,89 +543,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/playlist.m3u8?id=4
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-############################## MYTV CHANNEL
+---------------------MYTV CHANNEL---------------------
 
 #EXTINF:-1 tvg-id="101.astro" tvg-name="TV1" group-title="MYTV" tvg-logo="https://linear-poster.astro.com.my/prod/logo/TV1_v1.png" ch-number="101",101 TV1 HD HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
@@ -733,7 +653,11 @@ https://unifi-live09.secureswiftcontent.com/UnifiHD/live09.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/705/default_primary.mpd
 
 
-###################################### KIDS 
+
+
+
+
+---------------------KIDS--------------------- 
 
 #EXTINF:-1 group-logo="https://iili.io/H7B4QYF.png"
 #EXTINF:-1 tvg-id="620.astro" tvg-name="CBeebies" group-title="Kids TV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/481_144.png" ch-number="620",620 CBeebies HD
@@ -786,7 +710,10 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2511/default_ott.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; MiTV-AXSO0 Build/QTZCS200912.005) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/9982/default_ott.mpd
 
-#################################### DRAMA
+
+
+
+---------------------DRAMA---------------------
 
 #EXTINF:-1 group-logo="https://iili.io/H7B4QYF.png"
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -827,7 +754,10 @@ https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-
 
 
 
-########################################################################################## MOVIES CHANNEL
+
+
+
+--------------------- MOVIES CHANNEL---------------------
 
 #EXTINF:-1 group-logo="https://iili.io/H7B4QYF.png"
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -986,7 +916,11 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2111/default_ott.mpd
 https://cdn10jtedge.indihometv.com/atm/DASH/kix/manifest.mpd
 
 
-#################################################################################### DOCUMENTARY
+
+
+
+
+---------------------DOCUMENTARY---------------------
 
 #EXTINF:-1 group-logo="https://iili.io/H7B4QYF.png" tvg-id="708.astro"  group-title="Documentary" group-logo="" tvg-logo="https://i.ibb.co/ZR7Q9zBg/Foodnetworkasia.png" ch-number="708",708 Food Network 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1086,7 +1020,13 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2502/default_ott.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; MiTV-AXSO0 Build/QTZCS200912.005) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2709/default_ott.mpd
 
-############################################################################# UNIFI TV
+
+
+
+
+
+
+---------------------UNIFI TV---------------------
 
 #EXTINF:-1 group-logo="https://iili.io/H7B4QYF.png"
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1166,7 +1106,10 @@ https://cdn10jtedge.indihometv.com/atm/DASH/rock_entertainment/manifest.mpd
 
 
 
-########################################################################################### NEWS
+
+
+
+---------------------NEWS---------------------
 
 #EXTINF:-1 group-logo="https://iili.io/H7B4QYF.png"
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1267,7 +1210,10 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/9984/default_ott.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; MiTV-AXSO0 Build/QTZCS200912.005) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/9985/default_ott.mpd
 
-###################################################################################### KOREAN
+
+
+
+---------------------KOREA---------------------
 
 #EXTINF:-1 group-logo="https://iili.io/H7B4QYF.png"
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1328,8 +1274,9 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/9983/default_ott.mpd
 
 
 
-###################################################################################### INDIAN
 
+
+---------------------INDIA---------------------
 
 #EXTINF:-1 group-logo="https://iili.io/H7B4QYF.png"
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1527,10 +1474,13 @@ https://streams2.sofast.tv/ptnr-yupptv/title-THALAA-TV-TAM_yupptv/v1/master/611d
 #EXTINF:-1 group-title="Indian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png", Discovery Kids Hindi
 #https://varun-iptv.netlify.app/m3u/discoverykidshindi.m3u8
 
-################################################################ CHINESE
 
 
 
+
+
+
+---------------------CHINESE---------------------
 
 ##306
 #EXTINF:-1 group-logo="https://iili.io/H7B4QYF.png" tvg-id="306.astro" tvg-logo="https://i.ibb.co/spkP9RTz/Astro-AEC-2024.png" group-title="Chinese" ch-number="306",306 AEC HD
@@ -1668,7 +1618,12 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/506/default_ott.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; MiTV-AXSO0 Build/QTZCS200912.005) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1006/default_ott.mpd
 
-######################################################################################## INDONESIA ########################################################################
+
+
+
+
+
+---------------------INDONESIA---------------------
 
 #EXTINF:-1 group-logo="https://iili.io/H7B4QYF.png"
 #EXTINF:-1 tvg-id="TVRIWorld.id" #group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Flag_of_INDONESIA.png" tvg-logo="https://i.imgur.com/h3RldTO.png" group-title="Indonesia",TVRI World
@@ -1800,7 +1755,15 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/citradangdut/manifest.mpd
 #https://cdn10jtedge.indihometv.com/atm/DASH/ANTV/manifest.mpd
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000022/1024.m3u8
 
-############################## SINGAPORE #####################################################################################################################################
+
+
+
+
+
+
+
+
+---------------------SINGAPORE---------------------
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9c7b6aaca62d4dc59567656b371eaa21:253951f121461cbb6b8aac526438b368
@@ -1859,7 +1822,7 @@ https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.m
 
 
 
-############################## THAILAND
+---------------------THAILAND---------------------
 
 #EXTINF:-1 group-logo="https://iili.io/H7B4QYF.png"
 #EXTINF:-1 tvg-id="CHN" tvg-logo="https://i0.wp.com/www.siamnewsnetwork.net/wp-content/uploads/2018/05/siamnews-bw-helv-square.png" group-title="Thailand", Siam News
@@ -1942,7 +1905,12 @@ https://cdn-live.dltv.ac.th/dltv14.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://cdn-live.dltv.ac.th/dltv15.m3u8
 
-################################### KIDS
+
+
+
+
+
+---------------------KIDS---------------------
 
 #EXTINF:-1 group-logo="https://iili.io/H7B4QYF.png"
 #EXTINF:-1 channel-id="pluto-5812b7d3249444e05d09cc49" tvg-id="5812b7d3249444e05d09cc49" tvg-logo="https://images.pluto.tv/channels/5812b7d3249444e05d09cc49/colorLogoPNG.png" tvg-chno="3980" group-title="Kids TV" , Anime All Day
@@ -1980,7 +1948,16 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60
 
 
 
-########################################################################RADIO#########################################################################################
+
+
+
+
+
+
+
+
+
+---------------------RADIO---------------------
 
 #EXTINF:-1 group-title="Radio", Bacaan Al-quran
 https://playlist.x10.mx/youtube/play.m3u8?id=UCfPDhOTpakcKIGPfv1Ui7GA
@@ -2074,7 +2051,15 @@ https://mifntechnology.github.io/siaranMy/radio/AsyikFm/playlist.m3u8
 #EXTINF:-1 group-title="Radio" tvg-id="Eight FM" tvg-name="8 Fm tvg-logo="https://mifntechnology.github.io/siaranMy/logo/8Fm.png",8Fm 
 https://mifntechnology.github.io/siaranMy/radio/8Fm/playlist.m3u8
 
-########################################################################################## DOUYU
+
+
+
+
+
+
+
+
+---------------------DOUYU---------------------
 
 #EXTINF:-1 group-logo="https://iili.io/H7B4QYF.png"
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B4xvBb8/600px-Douyu-TV-logo.png" group-title="Douyu Movies",Douyu Movies 1
@@ -2120,8 +2105,8 @@ http://epg.112114.xyz/douyu/20415
 
 
 
-###########################################VOD###############################################
 
-   
+
+---------------------VOD---------------------
 
 #EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml,https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml,https://i.mjh.nz/PlutoTV/all.xml,https://i.mjh.nz/SamsungTVPlus/us.xml,https://i.mjh.nz/SamsungTVPlus/kr.xml,https://epg.pw/xmltv/epg_MY.xml,https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml" refresh="1440"
